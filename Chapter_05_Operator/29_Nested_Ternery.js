@@ -9,7 +9,7 @@ let category =
 console.log(`Status ${statusCode}: ${category}`);
 console.log("Status :" + statusCode, category);
 
-Console.log("-------------Nested Ternary-----------------------");
+console.log("-------------Nested Ternary-----------------------");
 
 let temp = 35;
 let feel = (temp >= 40) ? "Very Hot" :
@@ -18,7 +18,7 @@ let feel = (temp >= 40) ? "Very Hot" :
             (temp >= 10) ? "Cool" : "Cold";
 console.log("7. Temperature:", temp, "| Feel:", feel);
 
-Console.log("-------------Nested Ternary-----------------------");
+console.log("-------------Nested Ternary-----------------------");
 
 
 console.log(typeof "hello");
