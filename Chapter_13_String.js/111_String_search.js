@@ -6,9 +6,9 @@ url.includes("staging");
 url.includes("production");
 
 // startsWith / endsWith
-url.startsWith("https");
-url.startsWith("http://"); 
-url.endsWith("true"); 
+console.log(url.startsWith("https"));
+console.log(url.startsWith("http://")); 
+console.log(url.endsWith("truee")); 
 
 // indexOf / lastIndexOf
 console.log(url.indexOf("a"));

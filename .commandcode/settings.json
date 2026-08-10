@@ -3,7 +3,8 @@
     "allow": [
       "Shell(git:*)",
       "Shell(git commit -F - <<'EOF' Add functions, arrays, loops, and user input practice code; reorganize array practice files Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)",
-      "Shell(git add -A && git commit -F - <<'EOF' Add closure and string practice code, IQ notes, and palindrome interview solution Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)"
+      "Shell(git add -A && git commit -F - <<'EOF' Add closure and string practice code, IQ notes, and palindrome interview solution Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)",
+      "Shell(git add -A && git commit -F - <<'EOF' Fix string search console output and palindrome example Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)"
     ],
     "deny": [],
     "defaultMode": "default"
