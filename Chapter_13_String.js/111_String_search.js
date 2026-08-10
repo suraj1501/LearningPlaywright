@@ -16,3 +16,5 @@ console.log(url.lastIndexOf("a"));
 console.log(url.indexOf("nothere"));
 
 // ASCII -> A -> 65
+//jyyhggvgbygtgvggfgaq    aageerre4errr5zxxzxo\'saasg'
+let p1=["Hello","test"];
